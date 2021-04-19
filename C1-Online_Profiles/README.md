@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-github.com/Zack-Martin
+https://www.github.com/Zack-Martin
  
 ### LinkedIn
 https://www.linkedin.com/in/zack-martin-2202ba210/
