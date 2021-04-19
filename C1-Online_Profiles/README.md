@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+github.com/Zack-Martin
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/zack-martin-2202ba210/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
